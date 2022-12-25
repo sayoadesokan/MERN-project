@@ -1,4 +1,4 @@
-# MERN-project
+# Backend-project
 
 This is a goal website that deals with fullstack integration 
 
