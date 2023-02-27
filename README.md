@@ -1,8 +1,7 @@
 # Backend-project
 
-This is a goal website that deals with fullstack integration 
+This is the backend of a Goal posting website, it utuilizes the express and node, including middlewares MVC architecture. It has pasword hashing, authentification and other facotrs for this backend application. 
 
-Summary, you login and paste your goals + update... using the REST API with authentication
 ---
 ## Requirements
 
